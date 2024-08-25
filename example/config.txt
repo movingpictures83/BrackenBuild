@@ -1,0 +1,2 @@
+Prefix plugins/BrackenBuild/example/
+Plugin BrackenBuild inputfile parameters.txt outputfile none
